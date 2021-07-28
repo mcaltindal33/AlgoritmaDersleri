@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdenNKadarCiftSayilarinnT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegiskenlerUygulamasi", "DegiskenlerUygulamasi\DegiskenlerUygulamasi.csproj", "{8A2B4BBD-9F9C-451C-B93F-1C9061D4F58D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontrolYapilari", "KontrolYapilari\KontrolYapilari.csproj", "{A33F3DCC-A84C-41F0-BA92-50439B53E826}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KontrolYapilari", "KontrolYapilari\KontrolYapilari.csproj", "{A33F3DCC-A84C-41F0-BA92-50439B53E826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerTipleri", "DegerTipleri\DegerTipleri.csproj", "{955D4DFC-DF07-4906-9A18-1C5AAFA9B43A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{A33F3DCC-A84C-41F0-BA92-50439B53E826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A33F3DCC-A84C-41F0-BA92-50439B53E826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A33F3DCC-A84C-41F0-BA92-50439B53E826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955D4DFC-DF07-4906-9A18-1C5AAFA9B43A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955D4DFC-DF07-4906-9A18-1C5AAFA9B43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955D4DFC-DF07-4906-9A18-1C5AAFA9B43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955D4DFC-DF07-4906-9A18-1C5AAFA9B43A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
